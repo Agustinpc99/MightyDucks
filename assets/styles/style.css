@@ -1,0 +1,36 @@
+
+
+img{
+    vertical-align: middle;
+}
+
+.index {
+    background: cyan;
+}
+
+.about{
+    background: yellowgreen;
+}
+
+.contact{
+    background: wheat;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+.sec{
+    position: relative; left: 170px;
+    background-color: orangered;
+    width: 400px;
+}
+
+a{
+    color: black;
+}
+
+a[href="#"]{
+    color: rgb(41, 40, 40);
+}
