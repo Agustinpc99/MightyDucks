@@ -21,7 +21,7 @@ a:hover{
     color: white;
 }
 
-.sec{
+.sec:not(img){
     position: relative; left: 170px;
     background-color: rgb(158, 42, 0);
     width: 400px;
