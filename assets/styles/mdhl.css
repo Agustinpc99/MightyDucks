@@ -18,6 +18,7 @@
 
 .cabezera nav{
     padding-left: 45%;
+    position: absolute; top: 45px;
 }
 
 .cabezera img{
@@ -61,6 +62,7 @@ h2{
 .sec_2_c{
     display: inline-block;
     padding: 30px 0 0 40px;
+    position: relative; bottom: 100px;
 }
 
 .sec_2_c p{
@@ -69,6 +71,7 @@ h2{
 
 .sec_3{
     padding: 30px 0 0 40px;
+    position: relative; bottom: 100px;
     
 }
 

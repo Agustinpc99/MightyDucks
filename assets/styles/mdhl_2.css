@@ -70,6 +70,7 @@ h2{
     background-color: rgb(226, 175, 65) ;   
     border-radius: 5%; 
     box-shadow: -10px 3px 13px 4px rgba(0, 0, 0, 0.3);
+    position: relative; bottom: 100px;
 }
 
 .sec_2_c p{
@@ -83,6 +84,7 @@ h2{
     background-color: rgb(226, 175, 65) ;   
     border-radius: 5%; 
     box-shadow: -10px 3px 13px 4px rgba(0, 0, 0, 0.3);
+    position: relative; bottom: 100px;
 }
 
 .sec_3 p{
