@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sec_ppt{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+}
+
+.layout{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.tabla{
+    border: 1px solid;
+    margin-right: 150px;
+    border-collapse: collapse;
+    width: 70%;
+    box-shadow: -10px 3px 13px 4px rgba(0, 0, 0, 0.3);
+}
+
+.columna{
+    border: 2px solid;
+    width: 100px;
+    height: 40px;
+}
+
+.imagenes{
+    width: 120px;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+}
+
+#advertencia{
+    text-align: start;
+}
+
+.tabla_cabeza{
+    background-color: rgb(235, 185, 138);
+}
+
+.tabla_cuerpo tr:nth-child(odd){
+    background-color: #24b694;
+}
+
+.fecha{
+    background-color: #ba3b46;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.sec_2_t{
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    margin-top: 20px;
+    background-color: #61c9a8 ;   
+    border-radius: 5%; 
+    box-shadow: -10px 3px 13px 4px rgba(0, 0, 0, 0.3);
+    width: 70%;
+    margin-right: 150px;
+}
+
+.sec_2_t p{
+    padding: 10px 5px;
+}
+
+.sec_2_t nav a:nth-child(1){
+    padding-right: 120px;
+}
+
+.sec_2_t nav a:nth-child(2){
+    padding-left: 120px;
+}
+
+.sec_2_t nav{
+    padding: 0 0 10px 0;
+}

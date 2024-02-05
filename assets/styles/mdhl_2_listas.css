@@ -1,0 +1,46 @@
+.sec_pp_r{
+    display: flex;
+    
+    flex-wrap: wrap;
+    min-width: 100%;
+    min-height: 100vh;
+    gap: 5px;
+    padding-left: 130px;
+    
+}
+
+.sec_r{
+    padding-left: 150px;
+}
+
+.sec_3{
+    width: 600px;
+    margin-left: 200px;
+}
+
+.sec_3:hover{
+    transform: scale(1.7) translate(150px);
+    margin: 60px 0 60px 180px;
+    transition: all 0.6s ease-out;
+}
+
+.lista_primaria{
+    padding-left: 15px;
+}
+
+.lista_secundaria{
+    list-style: lower-alpha;
+}
+
+#advertencia{
+    margin-left: 200px;
+    padding-top: 10px;
+}
+
+.imagenes{
+    width: 120px;
+}
+
+.lista_unor{
+    padding-left: 15px;
+}

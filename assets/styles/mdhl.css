@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+.layout{
+    background-color: wheat;
+}
+
 .cabezera h1,nav{
     
     display: inline;
@@ -79,6 +83,3 @@ h2{
     width: 60ch;
 }
 
-body{
-    background-color: wheat;
-}
