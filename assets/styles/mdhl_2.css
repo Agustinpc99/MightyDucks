@@ -65,6 +65,11 @@ nav a[href="#"]{
     border: 2px solid black;
 }
 
+nav a:hover[href="#"]{
+    background: #24b694;
+    border: 2px solid black;
+}
+
 .subtitulo{
     text-align: center;
     background-color: #ba3b46;

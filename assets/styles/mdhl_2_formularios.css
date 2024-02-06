@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imagenes{
+    width: 120px;
+}
+
+p{
+    width: 120ch;
+}
+
+.sec_pp_reg{
+    display: flex;
+    min-width: 100%;
+    padding-left: 130px;
+}
+
+.sec_reg{
+    padding-left: 250px;
+    padding-top: 10px;
+}
+
+.sec_3 .columna{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.fila{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.fila2{
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.sec_3:hover{
+    transform: scale(1) translate(0);
+    margin: 20px 0 0 40px;
+    transition: all 0.6s ease-out;
+}
+
+.enviar{
+    margin-left: 400px;
+    margin-top: 10px;
+    font-size: 30px;
+    background-color: #ba3b46;
+    border-radius: 10%;
+    border-color: black;
+    border-width: 4px;
+}
+
+.sec_3{
+    border-radius: 1%; 
+}
