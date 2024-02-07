@@ -30,6 +30,10 @@ p{
     font-size: 20px;
 }
 
+.sec_3 .columna input{
+    font-size: 17px;
+}
+
 .fila{
     display: flex;
     justify-content: center;
