@@ -49,6 +49,10 @@
     background-color: rgb(235, 185, 138);
 }
 
+.tabla_cabeza{
+    font-size: 20px;
+}
+
 .tabla_cuerpo tr:nth-child(odd){
     background-color: #24b694;
 }
@@ -69,6 +73,7 @@
     box-shadow: -10px 3px 13px 4px rgba(0, 0, 0, 0.3);
     width: 70%;
     margin-right: 150px;
+    font-size: 18px ;
 }
 
 .sec_2_t p{
