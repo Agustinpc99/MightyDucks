@@ -86,3 +86,13 @@
 .sec_2_t nav{
     padding: 0 0 10px 0;
 }
+
+.sec_mapas .tabla{
+    width: 100%;
+}
+
+.mapa{
+    width: 400px;
+    border: none;
+    padding-top: 4px;
+}
